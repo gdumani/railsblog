@@ -77,7 +77,7 @@ Github: [@Miguelus373](https://github.com/Miguelus373)
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/gdumani/railsblog/issues).
 
 ## Show your support
 
@@ -85,8 +85,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-​- This project was part of Microverse's curriculum in Ruby learning program.
-- Special thanks to John Hopkins University for keeping such an amazing compilation of statistics up to date and making it available to us
+- This project was part of Microverse's curriculum in Rails learning program.
+- We followed the step y step guide of [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 ## 📝 License
 
